@@ -1,2 +1,2 @@
-# instagram_bot
+# BOT Instagram
 BOT que comenta foto do Instagram 
